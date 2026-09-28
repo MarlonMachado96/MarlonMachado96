@@ -1,34 +1,71 @@
-<div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+SYSTEM+ONLINE;%3E+SOFTWARE+DEVELOPER;%3E+CYBERSECURITY+ENTHUSIAST;%3E+ALWAYS+LEARNING..." /> <br> <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" /> </div>
-> whoami
-Software Developer
-Technology Enthusiast
-Continuous Learner
+👋 Olá! Eu sou Marlon Machado
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Software+Developer+in+Training;Cybersecurity+Enthusiast;Automation+%26+Technology" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,django,fastapi,flutter,docker,git,github,linux" /> </p>
+🧑‍💻 Sobre mim
 
-Building software.
-Exploring technology.
-Learning cybersecurity.
+🎓 Estudante de Engenharia de Software
+💻 Desenvolvedor de Software em formação
+🔐 Interessado em Cibersegurança, Automação e Suporte de TI
 
-> tech_stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+Sou estudante de Engenharia de Software e desenvolvedor em formação, apaixonado por tecnologia e por transformar ideias em projetos reais.
 
-<br><br>
+Tenho experiência acadêmica e prática com:
 
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00FF41" /> <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00FF41" /> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" /> <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=00FF41" /> </div>
-> github_stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarlonMachado96&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMachado96&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" /> </div>
-> activity_log
-<div align="center"> <img src="https://streak-stats.demolab.com?user=MarlonMachado96&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=777777&hide_border=true" /> </div>
-> connect
-<div align="center"> <a href="https://github.com/MarlonMachado96"> <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF41" /> </a>
+🌐 Desenvolvimento Web
 
-<br><br>
+⚙️ Backend e APIs
 
-<img src="https://komarev.com/ghpvc/?username=MarlonMachado96&color=00FF41&style=flat-square&label=PROFILE+VISITS" />
+🗄️ Bancos de dados
 
-<br><br>
+🤖 Automação
 
-SYSTEM STATUS: ONLINE ●
-SECURITY STATUS: ACTIVE ●
-CONNECTION: SECURE ●
+🐳 Docker
 
-</div>
+🔧 Git & GitHub
+
+🐧 Linux
+
+Também estudo Cibersegurança, utilizando o Kali Linux como ambiente de aprendizado para explorar conceitos de redes, Linux, análise de vulnerabilidades e testes de segurança em ambientes controlados.
+
+🐉 Kali Linux
+<p align="center"> <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="180" alt="Kali Linux Dragon"> </p> <p align="center"> <strong>Cybersecurity • Linux • Networking • Ethical Hacking</strong> </p>
+
+🔐 Utilizo o Kali Linux como ambiente de estudos para aprender sobre segurança da informação, redes, Linux e testes de segurança em ambientes autorizados e controlados.
+
+🛠️ Tecnologias
+💻 Desenvolvimento
+<p> <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,django,fastapi,flutter" /> </p>
+🗄️ Banco de dados
+<p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /> </p>
+⚙️ DevOps & Ferramentas
+<p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" /> </p>
+🤖 Automação
+
+n8n • Python • APIs • Automação de processos • Inteligência Artificial
+
+📚 Atualmente estudando
+
+🎓 Engenharia de Software
+
+🔐 Cibersegurança
+
+🤖 Automação e Inteligência Artificial
+
+🏗️ Arquitetura de Software
+
+✨ Clean Code
+
+🧩 SOLID
+
+🎨 Design Patterns
+
+🐧 Linux
+
+🌐 Redes
+
+🛡️ Segurança da Informação
+
+📊 GitHub Stats
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" /> </p>
+🌐 Onde me encontrar
+<p align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/marlon-machado-b51064233"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
+<p align="center"> 🚀 <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i> </p>
