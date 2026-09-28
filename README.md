@@ -1,5 +1,5 @@
 👋 Olá! Eu sou Marlon Machado
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Software+Developer+in+Training;Cybersecurity+Enthusiast;Automation+%26+Technology" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,django,fastapi,flutter,docker,git,github,linux" /> </p>
+<p align="center"> <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="120" alt="Kali Linux Dragon"> </p> <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Software+Developer+in+Training;Cybersecurity+Enthusiast;Automation+%26+Technology" /> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,django,fastapi,flutter,docker,git,github,linux" /> </p>
 🧑‍💻 Sobre mim
 
 🎓 Estudante de Engenharia de Software
@@ -27,7 +27,7 @@ Tenho experiência acadêmica e prática com:
 Também estudo Cibersegurança, utilizando o Kali Linux como ambiente de aprendizado para explorar conceitos de redes, Linux, análise de vulnerabilidades e testes de segurança em ambientes controlados.
 
 🐉 Kali Linux
-<p align="center"> <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="180" alt="Kali Linux Dragon"> </p> <p align="center"> <strong>Cybersecurity • Linux • Networking • Ethical Hacking</strong> </p>
+<p align="center"> <img src="https://www.kali.org/images/kali-dragon-icon.svg" width="120" alt="Kali Linux Dragon"> </p> <p align="center"> <strong>Cibersegurança • Linux • Redes • Hacking Ético</strong> </p>
 
 🔐 Utilizo o Kali Linux como ambiente de estudos para aprender sobre segurança da informação, redes, Linux e testes de segurança em ambientes autorizados e controlados.
 
