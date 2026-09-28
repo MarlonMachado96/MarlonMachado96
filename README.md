@@ -8,7 +8,11 @@ Desenvolvedor de software, entusiasta de tecnologia, sempre aprendendo...
 ⚡ Pilha de tecnologias
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" /> </div>
 📊 GitHub Stats
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=MarlonMachado96&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMachado96&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" /> </div>
+<div align="center"> <img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMachado96&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF"
+/>
+username=MarlonMachado96&show_icons=true&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarlonMachado96&layout=compact&hide_border=true&theme=dark&bg_color=0D1117&title_color=00FF41&text_color=FFFFFF" /> </div>
 🔥 Atividade
 <div align="center"> <img src="https://streak-stats.demolab.com?user=MarlonMachado96&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=FFFFFF&dates=777777&hide_border=true" /> </div>
 🌐 Redes sociais
