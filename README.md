@@ -34,7 +34,7 @@ Também estudo Cibersegurança, utilizando o Kali Linux como ambiente de aprendi
 🛠️ Tecnologias
 💻 Desenvolvimento
 <p> <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,django,fastapi,flutter" /> </p>
-🗄️ Banco de dados
+🗄️ Bancos de dados
 <p> <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" /> </p>
 ⚙️ DevOps & Ferramentas
 <p> <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode" /> </p>
@@ -67,5 +67,4 @@ n8n • Python • APIs • Automação de processos • Inteligência Artificia
 📊 GitHub Stats
 <p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" /> </p>
 🌐 Onde me encontrar
-<p align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/marlon-machado-b51064233"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p>
-<p align="center"> 🚀 <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i> </p>
+<p align="center"> <a href="https://github.com/SEU_USUARIO"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> <a href="https://linkedin.com/in/marlon-machado-b51064233"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> </p> <p align="center"> 🚀 <i>Aprendendo, desenvolvendo e evoluindo um projeto de cada vez.</i> </p>
