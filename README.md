@@ -2,8 +2,6 @@
 🟢 MARLON MACHADO
 > Desenvolvedor de Software_
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%24+whoami;Marlon+Machado;Building+%7C+Learning+%7C+Creating;System+Online+%E2%9C%93" /> <br> <a href="https://github.com/MarlonMachado96"> <img src="https://img.shields.io/badge/GitHub-00ff41?style=for-the-badge&logo=github&logoColor=black"> </a> </div>
-🖥️ whoami
-$ whoami
 
 Marlon Machado
 Software Developer
